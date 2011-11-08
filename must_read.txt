@@ -1,0 +1,10 @@
+create a table in related database...
+
+tbl_name = default_hellos
+no. of fields = 3
+->id
+->name
+->message
+
+Contact us if you need support:
+http://semicolondev.com
